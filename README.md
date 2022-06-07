@@ -8,3 +8,5 @@ El 5to (el que más sepa), que cree un constructor (@classmethod), para poder in
 
 
 Segundo commit
+
+Hola esta modificación la ha hecho Pilar
